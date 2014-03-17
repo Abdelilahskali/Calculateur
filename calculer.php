@@ -1,10 +1,4 @@
 <?php
-    /*
-     * Crée le 10 mars 2014
-     * Yellogic - Casablanca - Abdelilah SKALI
-     *
-     * calculer.php - fichier qui recupÈre la formule et test sa validitÈ via la fonction validation
-     */
     
     //---------------------------------------------------------------------------------------------
     //Les includes - validateur.php et calculateur.php
